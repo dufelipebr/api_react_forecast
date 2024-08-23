@@ -1,0 +1,6 @@
+@apinova_HostAddress = http://localhost:5147
+
+GET {{apinova_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
